@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e7490,100:22d3ee&height=230&section=header&text=Shaheer&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20software%20for%20the%20Maldives%20%F0%9F%87%B2%F0%9F%87%BB&descSize=20&descAlignY=60" alt="Shahyr" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e7490,100:22d3ee&height=230&section=header&text=Shahyru&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20software%20for%20the%20Maldives%20%F0%9F%87%B2%F0%9F%87%BB&descSize=20&descAlignY=60" alt="Shahyru" width="100%" />
 
 <a href="https://github.com/Shahyru">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=Independent+developer+%F0%9F%8C%B4;React+apps+for+local+businesses;Booking%2C+CRM+%26+storefront+builds;Shipping+fast%2C+from+the+islands+%F0%9F%8C%8A" alt="Typing SVG" />
@@ -20,10 +20,10 @@
 
 ## 👋 About me
 
-I'm **Shahyr**, an independent developer based in the **Maldives**. I build web products for local businesses: fast, clean, mobile-first apps that fit how people here actually buy, book and work.
+I'm **Shaheer**, an independent developer based in the **Maldives** 🇲🇻. I build web products for local businesses: fast, clean, mobile-first apps that fit how people here actually buy, book and work.
 
 ```js
-const shahyr = {
+const shaheer = {
   location: "Maldives 🇲🇻",
   role: "Independent Developer",
   focus: ["React apps", "Local business tools", "Product design"],
@@ -59,26 +59,23 @@ const shahyr = {
 
 <div align="center">
 
-<a href="https://github.com/Shahyru/shahyru.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahyru&repo=shahyru.github.io&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=22d3ee&icon_color=22d3ee" alt="shahyru.github.io" />
-</a>
-<a href="https://github.com/Shahyru/Email-Scrapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahyru&repo=Email-Scrapper&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=22d3ee&icon_color=22d3ee" alt="Email-Scrapper" />
-</a>
-<a href="https://github.com/Shahyru/Personal-Data-Tools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahyru&repo=Personal-Data-Tools&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=22d3ee&icon_color=22d3ee" alt="Personal-Data-Tools" />
-</a>
+| Repository | About | Stack | Stars |
+|---|---|---|---|
+| [**shahyru.github.io**](https://github.com/Shahyru/shahyru.github.io) | Personal portfolio site | ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000) | ![Stars](https://img.shields.io/github/stars/Shahyru/shahyru.github.io?style=flat-square&color=0e7490&logo=github) |
+| [**Email-Scrapper**](https://github.com/Shahyru/Email-Scrapper) | Python crawler that collects emails from websites with Requests, Beautiful Soup and regex, with domain restriction and link limit | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=fff) | ![Stars](https://img.shields.io/github/stars/Shahyru/Email-Scrapper?style=flat-square&color=0e7490&logo=github) |
+| [**Personal-Data-Tools**](https://github.com/Shahyru/Personal-Data-Tools) | Personal data tools | ![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=fff) | ![Stars](https://img.shields.io/github/stars/Shahyru/Personal-Data-Tools?style=flat-square&color=0e7490&logo=github) |
 
 </div>
 
 <br/>
 
-## 📊 GitHub stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shahyru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahyru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
+<a href="https://github.com/Shahyru?tab=followers"><img src="https://img.shields.io/github/followers/Shahyru?style=for-the-badge&logo=github&color=0e7490&labelColor=0f2027" alt="Followers" /></a>
+<a href="https://github.com/Shahyru?tab=repositories"><img src="https://img.shields.io/github/last-commit/Shahyru/shahyru.github.io?style=for-the-badge&logo=git&color=0e7490&labelColor=0f2027&label=Last%20commit" alt="Last commit" /></a>
+<a href="https://github.com/Shahyru?tab=stars"><img src="https://img.shields.io/badge/Starred-26%20repos-0e7490?style=for-the-badge&logo=github&labelColor=0f2027" alt="Starred repos" /></a>
 
 </div>
 
