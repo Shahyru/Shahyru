@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e7490,100:22d3ee&height=230&section=header&text=Shaheer&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20software%20for%20the%20Maldives%20%F0%9F%87%B2%F0%9F%87%BB&descSize=20&descAlignY=60" alt="Shaheer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e7490,100:22d3ee&height=230&section=header&text=Shaheer&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20software%20for%20the%20Maldives%20%F0%9F%87%B2%F0%9F%87%BB&descSize=20&descAlignY=60" alt="Shahyr" width="100%" />
 
 <a href="https://github.com/Shahyru">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=Independent+developer+%F0%9F%8C%B4;React+apps+for+local+businesses;Booking%2C+CRM+%26+storefront+builds;Shipping+fast%2C+from+the+islands+%F0%9F%8C%8A" alt="Typing SVG" />
