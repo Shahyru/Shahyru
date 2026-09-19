@@ -24,7 +24,7 @@ I'm **Shahyr**, an independent developer based in the **Maldives**. I build web 
 
 ```js
 const shaheer = {
-  location: "Maldives 🇲🇻",
+  location: "Maldives",
   role: "Independent Developer",
   focus: ["React apps", "Local business tools", "Product design"],
   building: ["Booking apps", "CRMs", "WhatsApp-first storefronts"],
