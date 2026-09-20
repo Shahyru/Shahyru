@@ -64,6 +64,7 @@ const shaheer = {
 | [**shahyru.github.io**](https://github.com/Shahyru/shahyru.github.io) | Personal portfolio site | ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000) | ![Stars](https://img.shields.io/github/stars/Shahyru/shahyru.github.io?style=flat-square&color=0e7490&logo=github) |
 | [**Email-Scrapper**](https://github.com/Shahyru/Email-Scrapper) | Python crawler that collects emails from websites with Requests, Beautiful Soup and regex, with domain restriction and link limit | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=fff) | ![Stars](https://img.shields.io/github/stars/Shahyru/Email-Scrapper?style=flat-square&color=0e7490&logo=github) |
 | [**Personal-Data-Tools**](https://github.com/Shahyru/Personal-Data-Tools) | Personal data tools | ![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=fff) | ![Stars](https://img.shields.io/github/stars/Shahyru/Personal-Data-Tools?style=flat-square&color=0e7490&logo=github) |
+| [**IT-Technician-Toolkit**](https://github.com/Shahyru/Personal-Data-Tools) | IT-Technician-Toolkit | ![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=fff) | ![Stars](https://img.shields.io/github/stars/Shahyru/IT-Technician-Toolkit?style=flat-square&color=0e7490&logo=github) |
 
 </div>
 
