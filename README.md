@@ -20,11 +20,11 @@
 
 ## 👋 About me
 
-I'm **Shahyr**, an independent developer based in the **Maldives**. I build web products for local businesses: fast, clean, mobile-first apps that fit how people here actually buy, book and work.
+I'm **Shahyr**, an independent developer based in the **Maldives** 🇲🇻. I build web products for local businesses: fast, clean, mobile-first apps that fit how people here actually buy, book and work.
 
 ```js
 const shaheer = {
-  location: "Maldives",
+  location: "Maldives 🇲🇻",
   role: "Independent Developer",
   focus: ["React apps", "Local business tools", "Product design"],
   building: ["Booking apps", "CRMs", "WhatsApp-first storefronts"],
